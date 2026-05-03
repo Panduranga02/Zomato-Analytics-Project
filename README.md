@@ -11,7 +11,6 @@ This project analyzes Zomato restaurant data to extract insights on restaurants,
 - Tableau
 - Excel
 - SQL
-- Python (optional for preprocessing)
 
 ##  Dataset
 - Restaurant data (CSV files)
